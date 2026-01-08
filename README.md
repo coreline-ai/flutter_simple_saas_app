@@ -22,6 +22,7 @@
 
 본 프로젝트는 백엔드와 프런트엔드가 긴밀하게 연동되는 구조로 설계되었습니다.
 별도 github 저장소에 백엔드, 프런트엔드(WEB) 프로젝트가 있습니다.
+https://github.com/coreline-ai/python_simple_saas_fullstack
 
 ### 🐍 Backend (Flask Web Server)
 백엔드는 Flask 프레임워크를 기반으로 핵심 비즈니스 로직, 데이터베이스 관리 및 API 서비스를 제공합니다.

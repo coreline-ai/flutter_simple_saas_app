@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.7.2+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-현대적인 **클린 아키텍처(Clean Architecture)**를 적용한 Flutter 게시판 어플리케이션입니다. 사용자 인증, 게시판 탐색, 무한 스크롤 게시글 목록, HTML 렌더링 기반 상세 페이지 및 통합 검색 기능을 제공합니다.
+현대적인 **클린 아키텍처(Clean Architecture)**를 적용한 Flutter 게시판 Android, IOS 어플리케이션입니다. 사용자 인증, 게시판 탐색, 무한 스크롤 게시글 목록, HTML 렌더링 기반 상세 페이지 및 통합 검색 기능을 제공합니다.
 
 ---
 
